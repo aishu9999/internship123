@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    background-color: bisque;
+    border:2px ;
+    border-style: dashed;
+    border-color: rgb(221, 229, 236);
+}
+p{
+    background-image:url(c.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+li{
+    list-style-type: lower-alpha;
+}
+img{
+    height: 506px;
+    width: 500px;
+}
+table,th,td{
+    border: 3px solid olive;
+    width: 70%;
+    padding: 20px;
+    border-radius: 100px;
+}
+th{
+    border: 6px solid olive;
+
+}
+table{
+    border: 10px solid olivedrab;
+    padding: 20px;
+    margin: 40px 100px 40px 100px;
+}
+.head2{
+    background-color: aqua;
+    margin: 40px 30px 40px 100px;
+    padding: 20px;
+    border: 5px solid grey;
+    border-radius: 90px;
+}
+h4{
+    background-color: beige;
+    border: 5px;
+    border-style: double;
+    border-color: blueviolet;
+    text-align: center;
+}
+.head4 {
+    background-color: aquamarine;
+
+}
